@@ -2,7 +2,7 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: IT
 
 Integrantes:
 - Legajo: 2208532
