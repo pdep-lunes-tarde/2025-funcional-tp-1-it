@@ -2,14 +2,14 @@
 
 ## Grupo, nombre y legajo de integrantes
 
-- Nombre del grupo: **Completar**
+- Nombre del grupo: IT
 
 Integrantes:
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 2208532
+- Nombre: Isabella Mastrángelo 
 
-- Legajo: **Completar** 
-- Nombre: **Completar**
+- Legajo: 2226406 
+- Nombre: Tomas Rimasa
 
 
 ## Objetivos
